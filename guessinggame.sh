@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 #File: guessinggame.sh
 function tooHigh {
-  echo "That's too low, try a little higher"
+  echo "That's too high, try a little lower"
 }
 function tooLow {
   echo "That's too low, try a little higher"
